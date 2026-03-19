@@ -29,10 +29,10 @@ I'm a **Solution Architect & Full Stack Engineer** who designs and delivers end-
 
 ## 🌍 Open Source Contributions
 
-### [Motion-Tab-Bar](https://github.com/therezacuet/Motion-Tab-Bar) — Major Enhancement
+### [Motion-Tab-Bar](https://github.com/kimmanwky/Motion-Tab-Bar) — Major Enhancement
 > A beautiful animated Flutter tab bar widget package with 317+ ⭐ stars and 85+ forks on GitHub.
 
-**Contribution:** Null-safety migration + significant customization API expansion — [PR #29](https://github.com/therezacuet/Motion-Tab-Bar/pull/29)
+**Contribution:** Null-safety migration + significant customization API expansion — [PR #29](https://github.com/kimmanwky/Motion-Tab-Bar/pull/29)
 
 Flutter's null-safety release was one of the most impactful breaking changes in the ecosystem. I took on the full migration of this popular open-source package and, in the same contribution, extended its customization API with six new parameters to give developers far greater control over the widget's appearance:
 
