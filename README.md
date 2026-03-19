@@ -45,9 +45,7 @@ Flutter's null-safety release was one of the most impactful breaking changes in 
 | `tabIconSelectedSize` | `double` | Set the size of the selected tab icon |
 | `tabIconSelectedColor` | `Color` | Set the color of the selected tab icon |
 
-This contribution spanned **38 files**, **1,486 additions**, and **715 deletions** — a substantial lift that modernized the package for current Flutter standards while meaningfully expanding its developer surface.
-
-- **Tech:** Flutter, Dart, null-safety
+- **Tech:** Flutter, Dart
 
 ---
 
