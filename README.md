@@ -1,6 +1,6 @@
 # Hi, I'm Kimman 👋
 
-I'm a software developer with a passion for building clean, scalable applications across mobile, web, and backend. I enjoy crafting developer-friendly tools and reusable templates that make everyday engineering tasks smoother.
+I'm a **Solution Architect & Full Stack Engineer** who designs and delivers end-to-end solutions — from system architecture and API design through to mobile and web front ends. I bridge strategy and execution: translating business requirements into scalable, maintainable technical solutions, and then building them. I have a particular passion for open-source tooling, developer experience, and clean cross-platform engineering.
 
 ---
 
@@ -15,10 +15,40 @@ I'm a software developer with a passion for building clean, scalable application
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Architecture & Design
+- Full-stack solutioning across mobile, web, and cloud-native backends
+- RESTful API design, service decomposition, and scalable system design
+- Developer tooling, reusable component libraries, and package publishing
+
 ### Tools & Build
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌍 Open Source Contributions
+
+### [Motion-Tab-Bar](https://github.com/therezacuet/Motion-Tab-Bar) — Major Enhancement
+> A beautiful animated Flutter tab bar widget package with 317+ ⭐ stars and 85+ forks on GitHub.
+
+**Contribution:** Null-safety migration + significant customization API expansion — [PR #29](https://github.com/therezacuet/Motion-Tab-Bar/pull/29)
+
+Flutter's null-safety release was one of the most impactful breaking changes in the ecosystem. I took on the full migration of this popular open-source package and, in the same contribution, extended its customization API with six new parameters to give developers far greater control over the widget's appearance:
+
+| New Parameter | Type | Description |
+|---|---|---|
+| `tabBarHeight` | `double` | Control the height of the tab bar |
+| `tabBarColor` | `Color` | Set the background color of the tab bar |
+| `tabSize` | `double` | Adjust the overall size of each tab |
+| `tabIconSize` | `double` | Control the size of tab icons |
+| `tabIconSelectedSize` | `double` | Set the size of the selected tab icon |
+| `tabIconSelectedColor` | `Color` | Set the color of the selected tab icon |
+
+This contribution spanned **38 files**, **1,486 additions**, and **715 deletions** — a substantial lift that modernized the package for current Flutter standards while meaningfully expanding its developer surface.
+
+- **Tech:** Flutter, Dart, null-safety
+- **Impact:** Package has 317+ stars and 85+ forks; widely used in Flutter apps across the community
 
 ---
 
