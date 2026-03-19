@@ -32,7 +32,7 @@ I'm a **Solution Architect & Full Stack Engineer** who designs and delivers end-
 ### [Motion-Tab-Bar](https://github.com/kimmanwky/Motion-Tab-Bar) — Major Enhancement
 > A beautiful animated Flutter tab bar widget package with 317+ ⭐ stars and 85+ forks on GitHub.
 
-**Contribution:** Null-safety migration + significant customization API expansion — [PR #29](https://github.com/kimmanwky/Motion-Tab-Bar/pull/29)
+**Contribution:** Null-safety migration + significant customization API expansion
 
 Flutter's null-safety release was one of the most impactful breaking changes in the ecosystem. I took on the full migration of this popular open-source package and, in the same contribution, extended its customization API with six new parameters to give developers far greater control over the widget's appearance:
 
@@ -48,7 +48,6 @@ Flutter's null-safety release was one of the most impactful breaking changes in 
 This contribution spanned **38 files**, **1,486 additions**, and **715 deletions** — a substantial lift that modernized the package for current Flutter standards while meaningfully expanding its developer surface.
 
 - **Tech:** Flutter, Dart, null-safety
-- **Impact:** Package has 317+ stars and 85+ forks; widely used in Flutter apps across the community
 
 ---
 
@@ -65,31 +64,6 @@ This contribution spanned **38 files**, **1,486 additions**, and **715 deletions
 - Provides `FlutterCustomPagination` widget and `FlutterCustomPaginationOptions` widget
 - Designed for flexible layouts across different screen sizes
 - **Tech:** Flutter, Dart · **Published on:** [pub.dev](https://pub.dev/packages/flutter_custom_pagination)
-
----
-
-### [kwky-base-api](https://github.com/kimmanwky/kwky-base-api)
-> A production-ready Node.js + Express API boilerplate written in TypeScript.
-
-- RESTful API template with structured folder layout (`controllers`, `routes`, `core`, `lib`)
-- Includes security best practices: Helmet, CORS, rate limiting, compression
-- Request logging via Morgan, environment config via dotenv
-- **Tech:** TypeScript, Node.js, Express, Gulp
-
----
-
-### [kwky-base-model](https://github.com/kimmanwky/kwky-base-model)
-> A TypeScript base model library that pairs with `kwky-base-api`.
-
-- Provides reusable model definitions and utilities for the API layer
-- Structured to be consumed as a local package dependency
-- **Tech:** TypeScript, Gulp
-
----
-
-## 📊 GitHub Stats
-
-![kimmanwky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmanwky&show_icons=true&theme=default&hide_border=true)
 
 ---
 
